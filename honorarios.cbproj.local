@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/14 18:17:15.000.843,=D:\pro\Project1PCH1.h</Transaction>
+    <Transaction>2025/03/14 18:17:16.000.266,=D:\pro\Unit1.cpp</Transaction>
+    <Transaction>2025/03/14 18:18:02.000.983,D:\pro\hon_nom_gui\honorariosPCH1.h=D:\pro\Project1PCH1.h</Transaction>
+    <Transaction>2025/03/14 18:18:03.000.103,D:\pro\hon_nom_gui\Unit1.cpp=D:\pro\Unit1.cpp</Transaction>
+    <Transaction>2025/03/14 18:18:03.000.193,D:\pro\hon_nom_gui\honorarios.cbproj=D:\pro\Project1.cbproj</Transaction>
+    <Transaction>2025/03/14 18:18:03.000.103,D:\pro\hon_nom_gui\Unit1.h=D:\pro\Unit1.h</Transaction>
+    <Transaction>2025/03/14 18:18:03.000.103,D:\pro\hon_nom_gui\Unit1.dfm=D:\pro\Unit1.dfm</Transaction>
+    <Transaction>2025/03/14 18:18:10.000.503,D:\pro\hon_nom_gui\honorarios.cbproj=D:\pro\hon_nom_gui\honorarios.cbproj</Transaction>
+    <Transaction>2025/03/14 19:34:27.000.273,=D:\pro\hon_nom_gui\File1.cpp</Transaction>
+    <Transaction>2025/03/14 19:34:46.000.252,D:\pro\hon_nom_gui\File1.cpp=D:\pro\hon_nom_gui\exe1.cpp</Transaction>
+    <Transaction>2025/03/14 19:35:14.000.663,=D:\pro\hon_nom_gui\File1.cpp</Transaction>
+    <Transaction>2025/03/14 19:36:24.000.009,=D:\pro\hon_nom_gui\File2.cpp</Transaction>
+    <Transaction>2025/03/14 19:36:42.000.890,D:\pro\hon_nom_gui\File1.cpp=D:\pro\hon_nom_gui\exe2.cpp</Transaction>
+    <Transaction>2025/03/14 19:36:53.000.382,D:\pro\hon_nom_gui\File2.cpp=D:\pro\hon_nom_gui\exe3.cpp</Transaction>
+    <Transaction>2025/03/14 19:38:47.000.305,=D:\pro\hon_nom_gui\File1.cpp</Transaction>
+    <Transaction>2025/03/14 19:39:13.000.270,=D:\pro\hon_nom_gui\File2.cpp</Transaction>
+    <Transaction>2025/03/14 19:39:27.000.710,=D:\pro\hon_nom_gui\File3.cpp</Transaction>
+    <Transaction>2025/03/14 19:39:57.000.140,=D:\pro\hon_nom_gui\File4.cpp</Transaction>
+    <Transaction>2025/03/14 19:40:27.000.685,=D:\pro\hon_nom_gui\File5.cpp</Transaction>
+    <Transaction>2025/03/14 19:40:34.000.357,D:\pro\hon_nom_gui\File1.cpp=D:\pro\hon_nom_gui\exe4.cpp</Transaction>
+    <Transaction>2025/03/14 19:40:40.000.048,D:\pro\hon_nom_gui\File2.cpp=D:\pro\hon_nom_gui\exe5.cpp</Transaction>
+    <Transaction>2025/03/14 19:40:44.000.500,D:\pro\hon_nom_gui\File3.cpp=D:\pro\hon_nom_gui\exe6.cpp</Transaction>
+    <Transaction>2025/03/14 19:40:53.000.724,D:\pro\hon_nom_gui\File4.cpp=D:\pro\hon_nom_gui\exe.cpp</Transaction>
+    <Transaction>2025/03/14 19:40:59.000.086,D:\pro\hon_nom_gui\exe.cpp=D:\pro\hon_nom_gui\exe7.cpp</Transaction>
+    <Transaction>2025/03/14 19:41:06.000.844,D:\pro\hon_nom_gui\File5.cpp=D:\pro\hon_nom_gui\exe8.cpp</Transaction>
+    <Transaction>2025/03/14 19:42:24.000.778,=D:\pro\hon_nom_gui\File1.h</Transaction>
+    <Transaction>2025/03/14 19:42:43.000.000,D:\pro\hon_nom_gui\File1.h=D:\pro\hon_nom_gui\utils.h</Transaction>
+    <Transaction>2025/03/14 19:44:37.000.465,=D:\pro\hon_nom_gui\File1.cpp</Transaction>
+    <Transaction>2025/03/14 19:44:46.000.009,D:\pro\hon_nom_gui\File1.cpp=D:\pro\hon_nom_gui\functions.cpp</Transaction>
+    <Transaction>2025/03/17 15:46:04.000.086,D:\pro\hon_nom_gui\honorarios.cbproj=D:\pro\hon_nom_gui\honorarios.cbproj</Transaction>
+    <Transaction>2025/03/17 15:46:08.000.320,D:\pro\hon_nom_gui\honorarios.cbproj=D:\pro\hon_nom_gui\honorarios.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
